@@ -1116,7 +1116,7 @@ def main_apv():
         tks = ('Hello%20MUGHAL%20Owner%20Kashif%20!!%20Please%20Approve%20My%20Key%20Key%20:%20'+key1);os.system('am start https://wa.me/+?text='+tks)
 
  #####################   r1 = requests.get('https://github.com/arif-143/JARIN').text
-    r1 = requests.get('https://github.com/arif-143/JARIN').text
+    r1 = requests.get('https://github.com/arif-143/Dod.py').text
    
     if key1 in r1:
         menu()
